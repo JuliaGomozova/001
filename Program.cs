@@ -5,12 +5,11 @@ void PrintArray(string[] array)
     {
         Console.Write($"{array[i]} ");
     }
-
     Console.WriteLine();
 }
 
 
-string[] array = {"one", "two", "three", "four", "five", "six", "seven", "-1"};
+string[] array = {"one", "two", "three", "four", "five", "six", "seven", "-1", ":)"};
 
 int resultArraySize = 0;
 
