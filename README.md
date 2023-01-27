@@ -46,7 +46,7 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 ```
-Выводим исходный массив и массив с результатом, использую метод PrintArray/
+Выводим исходный массив и массив с результатом, использую метод PrintArray
 ```c#
 void PrintArray(string[] array)
 {
